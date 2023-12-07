@@ -1,5 +1,0 @@
-Hi this is first file
-
-
-
-sample code.
